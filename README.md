@@ -1,4 +1,4 @@
-# Errors-and-Solutions-When-Installing-Node
+# Errors-and-Solutions-When-Running-Node
 
 Error 1: Error: invalid character 'o' looking for beginning of value
 
